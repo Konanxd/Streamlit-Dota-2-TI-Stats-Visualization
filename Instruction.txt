@@ -1,0 +1,20 @@
+1. Installing library/dependencies (optional)
+   a. If you haven't install it, you can use terminal and just type
+ 	"pip install -r requirements.txt"
+	while the terminal is in folder directory of the requirements file.
+   b. If you have install it, just skip this step
+2. How to run streamlit
+   Simply, just type
+   "streamlit run app.py"
+   while the terminal is in folder directory of the project.
+3. Feature
+   a. On the input text box, you can input match ID that exist under
+	the tables and press Enter. After that, the details 
+	output will show up under the tables.
+   b. On the side bar, you can find the data by filter depends on what
+	you want to find.
+   c. There is a toggle that you can switch between AND logic or 
+	OR logic for hero's filter.
+   d. After you input the filter, press "Find" button to show the result.
+   e. At the bottom of the details statistic, you can press "Networth"
+	or "KDA Ratio" to show the chart (by button that you pressed).
